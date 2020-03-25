@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "sesEmailTest.js",
         "cursor": {
-          "lineNumber": 10,
-          "column": 15
+          "lineNumber": 9,
+          "column": 49
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -96,7 +96,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585158069024
+    "lastSave": 1585167269695
   },
   "VCS_STATE": {
     "provider": "GitHub",
